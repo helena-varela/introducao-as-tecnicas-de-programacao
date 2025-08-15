@@ -1,0 +1,19 @@
+# Pastas de build/output
+bin/
+build/
+debug/
+release/
+output/
+
+# Arquivos objeto e executáveis
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dll
+
+# Configurações de IDE
+.vscode/
+.idea/
+*.user
